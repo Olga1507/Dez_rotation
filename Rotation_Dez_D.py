@@ -5,7 +5,7 @@ import calendar
 # from datetime import date, timedelta, datetime
 
 
-# Создали класс хранения дез.средств Test
+# Создали класс хранения дез.средств
 class Dez:
 
     def __init__(self, name, conc_regular, conc_general):
